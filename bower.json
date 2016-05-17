@@ -1,0 +1,22 @@
+{
+  "name": "Punkte",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Shant Hairapetian <shant.hairapetian@metalab.csun.edu>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Chart.js": "^2.1.3"
+  }
+}

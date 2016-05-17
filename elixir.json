@@ -1,0 +1,5 @@
+{
+  "production": false,
+  "bowerDir": "bower_components",
+  "sourcemaps": false
+}

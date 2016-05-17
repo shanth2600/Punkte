@@ -1,0 +1,130 @@
+h1 {
+	font-family: 'Roboto', sans-serif;
+	color: #00FAC7;
+	padding-left:10px;
+}
+
+#logo-container {
+	margin-top:5px;
+	margin-left:10px;
+	background-image: url("https://raw.githubusercontent.com/CSUN-Comp490/punchcard_app_web/marketing-site/punchcard_marketing/static/images/Logo.PNG");
+	background-size: auto 50px;
+	background-repeat: no-repeat;
+	height:58px;
+}
+
+.nav-bar {
+	height:60px;	
+}
+
+.nav-bar li {
+	list-style-type:none;
+}
+.nav-bar ul {
+	padding-top:16px;
+	margin-right:40px;
+	padding-left:4px;
+	padding-right:4px;
+	width:100px;
+	height:58px;
+	text-transform:uppercase;
+	font-size:12pt;
+	display:inline-block;
+	font-family: 'Roboto', sans-serif;
+}
+
+.nav-bar a {
+	text-decoration:none;
+	color:black;
+}
+
+.nav-bar .active {
+	background-color: #00FAC7;
+}
+
+.footer {
+	background-color: #111111;
+	height:120px;
+
+}
+
+.footer .copy {
+	margin-top:50px;
+	display:inline-block;
+}
+
+.footer .social-media-icon {
+	margin-right:20px;
+	margin-top:40px;
+	float:right;
+	display:inline-block;
+	width:40px;
+	height:40px;
+	background-size: cover;
+}
+
+
+#dashboard-container {
+	/*overflow:auto; */
+	margin-top:-2px;
+	border:1px solid black;
+	height:800px;
+	background-color: rgba(0,0,0,0.8);
+}
+
+.canvas-container {
+	margin:auto;
+	height:200px;
+}
+
+#myChart {
+	height:200px;
+}
+
+#completionChart {
+
+}
+
+.section-title {
+	color:white;
+	font-family: 'Roboto', sans-serif;
+	margin-bottom:18px;
+	margin-left: 0px;
+}
+
+.section-title a {
+	text-decoration: none;
+	color:white;
+}
+
+.section-container {
+	border-radius: 5px;
+	padding: 10px;
+	border:1px solid black;
+	background-color: rgba(0,0,0,0.4);
+
+}
+
+.profile-image {
+	margin-left:5px;
+	display:inline-block;
+	height:100px;
+	width:100px;
+	border-radius:50px;
+	border:1px solid #00FAC7;
+	background-size: cover;
+	background-position: center;
+}
+
+.twitter-timeline {
+
+}
+
+.table-container {
+	margin-left: 10px;
+}
+
+.table-container * {
+	color: #00FAC7;
+}
+
